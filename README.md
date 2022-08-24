@@ -1,6 +1,6 @@
 # Magicna basta
 Projekat iz računarske grafike, korišćen skelet sa `https://github.com/matf-racunarska-grafika/project_base`.
-Teksture i objekti na `https://drive.google.com/drive/search?q=resources`.
+Teksture i objekti na `https://drive.google.com/file/d/1DcdgFgsuhQmNPz-TvdVpovfgXQX8c1s5/view?usp=sharing`.
 U magicnoj basti nalazi se misticna lebdeca kugla koja prilikom kontakta sa vama proguta citavu bastu.
 
 # Uputstvo
